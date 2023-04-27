@@ -13,3 +13,4 @@ Run these commands:
 
 `node app.js`
 
+Run these commands and see the output
