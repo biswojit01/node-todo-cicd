@@ -4,4 +4,4 @@ services:
   web:
     image: biswojit01/node-todo-app-cicd:latest
     ports:
-      - "8000:8000"
+      - "8001:8000"
